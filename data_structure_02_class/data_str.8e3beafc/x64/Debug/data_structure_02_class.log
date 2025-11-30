@@ -1,0 +1,3 @@
+﻿  inset.c
+D:\C++\Githug\C_code\data_structure_02_class\inset.c(60,1): warning C4715: “insetlist”: 不是所有的控件路径都返回值
+  data_structure_02_class.vcxproj -> D:\C++\Githug\C_code\data_structure_02_class\x64\Debug\data_structure_02_class.exe
