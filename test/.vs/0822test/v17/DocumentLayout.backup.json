@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\renze\\\u684C\u9762\\C\u002B\u002B\\Items\\0822test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE307B47-C526-44C6-8844-720BA274AF06}|0822test.vcxproj|D:\\renze\\\u684C\u9762\\C\u002B\u002B\\Items\\0822test\\0822test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE307B47-C526-44C6-8844-720BA274AF06}|0822test.vcxproj|solutionrelative:0822test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "0822test.c",
+              "DocumentMoniker": "D:\\renze\\\u684C\u9762\\C\u002B\u002B\\Items\\0822test\\0822test.c",
+              "RelativeDocumentMoniker": "0822test.c",
+              "ToolTip": "D:\\renze\\\u684C\u9762\\C\u002B\u002B\\Items\\0822test\\0822test.c",
+              "RelativeToolTip": "0822test.c",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAxwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-22T08:26:34.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
